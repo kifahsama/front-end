@@ -5,7 +5,7 @@ body{
 }
 #page-top{
     font-family: 'Great Vibes', cursive;
-    font-size: 50px;
+    font-size: 35px;
     color: #fec503;
 }
 .linee{
@@ -192,9 +192,7 @@ padding-top: 80px;
 .mybt-primary:active,.mybt-primary:focus{box-shadow:0 0 0 .2rem #10b6a0!important}
 .cards{
     color: black;
-    padding-top: 70px;
-    padding-right: 50px;
-    padding-left: 50px;
+    padding-top: 50px;
     padding-bottom: 40px;
 }
 .news{
@@ -224,4 +222,17 @@ background-size: cover;
 }
 .text-body:hover{
 color: #006978;
+}
+
+
+.heed{
+background-color: #e7e7e76e;
+}
+
+
+.mhdr{
+    font-size: 40px;
+}
+.padding{
+    padding-top: 20px;
 }
